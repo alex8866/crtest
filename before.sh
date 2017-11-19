@@ -1,10 +1,10 @@
 #########################################################################
-# File Name: after.sh
-# Description: after.sh
+# File Name: before.sh
+# Description: before.sh
 # Author: lkong
 # mail: lkong@tencent.com
-# Created Time: 2017-11-19 19:41:33
+# Created Time: 2017-11-20 00:26:15
 #########################################################################
 #!/bin/bash
 
-echo after >> /tmp/after
+echo v7 >> /tmp/before
